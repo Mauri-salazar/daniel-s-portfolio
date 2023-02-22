@@ -1,0 +1,54 @@
+{
+  "app.header.home" :"Home",
+  "app.header.skills" :"Skills",
+  "app.header.resume" :"Resume",
+  "app.header.works" :"Works",
+  "app.header.contact" :"Contact",
+  "app.header.name" :"I am ,Daniel Domingez.",
+  "app.header.role" :"I am a Full stack developer. ",
+  "app.header.roleDescription" :"I like dabbling in various parts of frontend development and like to learn about new technologies,write technical articles or simply play games in my free time.",
+
+
+
+  "app.skills.title": "My Skills",
+  "app.skills.description": "• Front-end: JavaScript, React, Redux, HTML, CSS.• Back-end: JavaScript, Node, Express.• Base de datos: SQL, PostgreSQL, Sequelize.• Desarrollo colaborativo: Git, GitHub.• Sistemas operativos: Windows, Linux.",
+
+
+
+
+  "app.resume.titleName" :"Daniel Alejandro Domínguez Díaz",
+  "app.resume.subtitle" :"Full Stack Ruby on Rails / React ",
+  "app.resume.location" :"Tucuman,Argentina",
+
+  "app.resume.workTitle" :"Work experience",
+  "app.resume.workOne" :"Full Stack Web Developer Henry 2021-2022-Bootcam con mas de 800 horas de cursado teorico-practico",
+  "app.resume.workTwo" :"Ingles Iniciacion.",
+  "app.resume.workThree" :"React. ",
+
+
+  "app.resume.skillsTitle" :"Skills",
+  "app.resume.skillsOne" :"Full Stack Web Developer Henry 2021-2022-Bootcam con mas de 800 horas de cursado teorico-practico",
+  "app.resume.skillsTwo" :"Ingles Iniciacion.",
+  "app.resume.skillsThree" :"React. ",
+
+  "app.resume.educationTitle" :"Education",
+  "app.resume.educationOne" :"Full Stack Web Developer Henry 2021-2022-Bootcam con mas de 800 horas de cursado teorico-practico",
+  "app.resume.educationTwo" :"Ingles Iniciacion.",
+  "app.resume.educationThree" :"React.",
+
+
+  "app.works.oneTitle" :"Title project",
+  "app.works.oneDescription" :"description:I am a Full stack developer.I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+
+  "app.works.twoTitle" :"Title project",
+  "app.works.twoDescription" :"description:I am a Full stack developer.I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+
+  "app.works.threeTitle" :"Title project",
+  "app.works.threeDescription" :"description:I am a Full stack developer.I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+
+  "app.works.fourTitle" :"Title project",
+  "app.works.fourDescription" :"description:I am a Full stack developer.I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+
+  "app.contact.title" :"Contact"
+
+}

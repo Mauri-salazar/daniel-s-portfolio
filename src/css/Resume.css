@@ -1,0 +1,78 @@
+#resume {
+  padding: 60px 0 200px 0;
+  margin-left: 140px;
+  overflow: hidden;
+
+}
+
+#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a:hover, #resume a:focus { color: #313131; }
+
+.port img {
+  width: 260px;
+  border-radius: 40px;
+  margin-top: 100px;
+}
+
+.icons {
+  margin-top: 10px;
+  padding-left: 40px;
+  font-size: 20px;
+}
+.icons a {
+  padding-right: 40px;
+}
+
+.icons i {
+  color: #F06000;
+}
+
+#resume h1 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #fff;
+}
+#resume h1 span {
+  border-bottom: 3px solid #F06000;
+  padding-bottom: 6px;
+}
+
+#resume .header-col { padding-top: 40px; }
+
+
+.education, .work {
+  margin-bottom: 4px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #E8E8E8;
+}
+
+#resume ul {
+  color: #E8E8E8;
+}
+
+#resume ul li {
+  margin-top: 6px;
+  font: 18px 'opensans-bold', sans-serif;
+}
+
+
+@media (max-width: 1000px) {
+
+    #resume {
+      padding-bottom: 600px;
+      margin-left: 100px;
+      font-size: 20px;
+      width: 100%;
+    }
+
+    #resume ul {
+      font-size: 30px;
+    }
+
+    #resume ul li {
+      margin-top: 6px;
+      font: 20px 'opensans-bold', sans-serif;
+    }
+
+
+}
